@@ -15,7 +15,7 @@
 ---
 
 ### 🔗 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/gokul-kumar-kesavan/) • [Resume](https://drive.google.com/file/d/1_iw0GC7mL5wRv7e5ANSWw4boSxMaaX0a/view) • [Portfolio Website](https://gokulkumar1014.github.io/)
+[LinkedIn](https://www.linkedin.com/in/anesh-t/) • [Resume](https://drive.google.com/file/d/1RXysiRmtufQLG1yKhG0O3EgNN9OM9_7y/view?usp=sharing) • [Portfolio Website](https://gokulkumar1014.github.io/)
 
 ---
 
