@@ -37,7 +37,7 @@
 |--------|---------|
 | [Predicting Urban Mobility with Capital Bikeshare Data: A Supervised Learning Approach](https://github.com/anesh-t/Predicting-Urban-Mobility-with-Capital-Bikeshare-Data-A-Supervised-Learning-Approach) | Classification models using Python |
 | [Rollback Reimagined Revenue Forecasting and Pricing Optimization at Walmart](https://github.com/anesh-t/Rollback-Reimagined-Revenue-Forecasting-and-Pricing-Optimization-at-Walmart) | AI/ML insights using KNN & Regression modeling |
-| [Federal Committee Contributions](https://github.com/gokulkumar1014/federal-committees-contribution-analysis) | Apache Spark, Political campaign data analytics |
+| [Big Data Pipeline for U.S. Political Donation Insights Using Apache Spark](https://github.com/anesh-t/Big-Data-Pipeline-for-U.S.-Political-Donation-Insights-Using-Apache-Spark) | Apache Spark, Political campaign data analytics |
 | [Operations Research Optimization Modeling Portfolio](https://github.com/gokulkumar1014/Operations-Research-Optimization-Modeling-Portfolio) | Optimization & Scenario analysis with Python & Gurobi |
 
 ---
