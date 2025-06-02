@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anesh T</h1>
+<h1 align="center">Hi 👋, I'm Anesh Thangaraj</h1>
 
 <p align="center">
 🎓 Master's in Business Analytics @ George Washington University | 📍 Based in Washington, D.C, USA.
@@ -38,7 +38,7 @@
 | [Predicting Urban Mobility with Capital Bikeshare Data: A Supervised Learning Approach](https://github.com/anesh-t/Predicting-Urban-Mobility-with-Capital-Bikeshare-Data-A-Supervised-Learning-Approach) | Classification models using Python |
 | [Rollback Reimagined Revenue Forecasting and Pricing Optimization at Walmart](https://github.com/anesh-t/Rollback-Reimagined-Revenue-Forecasting-and-Pricing-Optimization-at-Walmart) | AI/ML insights using KNN & Regression modeling |
 | [Big Data Pipeline for U.S. Political Donation Insights Using Apache Spark](https://github.com/anesh-t/Big-Data-Pipeline-for-U.S.-Political-Donation-Insights-Using-Apache-Spark) | Apache Spark, Political campaign data analytics |
-| [Operations Research Optimization Modeling Portfolio](https://github.com/gokulkumar1014/Operations-Research-Optimization-Modeling-Portfolio) | Optimization & Scenario analysis with Python & Gurobi |
+| [Red Brand Canners Optimization Workshop An Operations Research & Linear Programming Case Study](https://github.com/anesh-t/Red-Brand-Canners-Optimization-Workshop-An-Operations-Research-Linear-Programming-Case-Study) | Optimization & Scenario analysis with Python & Gurobi |
 
 ---
 
