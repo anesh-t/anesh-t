@@ -39,7 +39,7 @@
 | [Rollback Reimagined Revenue Forecasting and Pricing Optimization at Walmart](https://github.com/anesh-t/Rollback-Reimagined-Revenue-Forecasting-and-Pricing-Optimization-at-Walmart) | AI/ML insights using KNN & Regression modeling |
 | [Big Data Pipeline for U.S. Political Donation Insights Using Apache Spark](https://github.com/anesh-t/Big-Data-Pipeline-for-U.S.-Political-Donation-Insights-Using-Apache-Spark) | Apache Spark, Political campaign data analytics |
 | [Red Brand Canners Optimization Workshop An Operations Research & Linear Programming Case Study](https://github.com/anesh-t/Red-Brand-Canners-Optimization-Workshop-An-Operations-Research-Linear-Programming-Case-Study) | Optimization & Scenario analysis with Python & Gurobi |
-| [SEC 10-K Risk Factor Title Extraction](https://github.com/anesh-t/SEC-10-K-Risk-Factor-Title-Extraction) | Optimization & Scenario analysis with Python & Gurobi |
+| [SEC 10-K Risk Factor Title Extraction](https://github.com/anesh-t/SEC-10-K-Risk-Factor-Title-Extraction) | Web-scraping and parsing SEC 10-K filings to extract Item 1A risk factor titles using BeautifulSoup & regex |
 | [Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization](https://github.com/anesh-t/Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization) | Classifying using Machine Learning models and finding optimal model |
 
 ---
