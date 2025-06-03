@@ -40,7 +40,7 @@
 | [Big Data Pipeline for U.S. Political Donation Insights Using Apache Spark](https://github.com/anesh-t/Big-Data-Pipeline-for-U.S.-Political-Donation-Insights-Using-Apache-Spark) | Apache Spark, Political campaign data analytics |
 | [Red Brand Canners Optimization Workshop An Operations Research & Linear Programming Case Study](https://github.com/anesh-t/Red-Brand-Canners-Optimization-Workshop-An-Operations-Research-Linear-Programming-Case-Study) | Optimization & Scenario analysis with Python & Gurobi |
 | [SEC 10-K Risk Factor Title Extraction](https://github.com/anesh-t/SEC-10-K-Risk-Factor-Title-Extraction) | Optimization & Scenario analysis with Python & Gurobi |
-| [Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization](https://github.com/anesh-t/Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization) | Optimization & Scenario analysis with Python & Gurobi | Classifying using Machine Learning models and finding optimal model |
+| [Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization](https://github.com/anesh-t/Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization) | Classifying using Machine Learning models and finding optimal model |
 
 ---
 
