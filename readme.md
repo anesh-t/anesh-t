@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anesh Thangaraj</h1>
-
+ 
 <p align="center">
 🎓 Master's in Business Analytics @ George Washington University | 📍 Based in Washington, D.C, USA.
 </p>
