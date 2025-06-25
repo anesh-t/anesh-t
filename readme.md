@@ -44,8 +44,8 @@
 | [SEC 10-K Risk Factor Title Extraction](https://github.com/anesh-t/SEC-10-K-Risk-Factor-Title-Extraction) | Web-scraping and parsing SEC 10-K filings to extract Item 1A risk factor titles using BeautifulSoup & regex |
 | [Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization](https://github.com/anesh-t/Capital-Bikeshare-Forecasting-Comparing-Predictive-Models-and-Cost-Based-Optimization) | Classifying using Machine Learning models and finding optimal model |
 | [Financial Client Attrition Forecasting System](https://github.com/anesh-t/Financial-Client-Attrition-Forecasting-System) | Customer churn prediction using Decision Tree & Random Forest with GridSearchCV tuning |
-| [SEC Financial Statement & Notes Data Warehouse + Visualization Project](https://github.com/anesh-t/SEC-Financial-Data-Modeling-Visualization) | Cloud-hosted PostgreSQL schema using 8+ SEC datasets, SQL-based normalization, and Tableau dashboards to analyze financial filing trends and disclosure patterns. |
-
+| [SEC Financial Statement & Notes Data Warehouse + Visualization Project](https://github.com/anesh-t/SEC-Financial-Data-Modeling-Visualization) | Cloud-hosted PostgreSQL schema using 8+ SEC datasets, SQL-based normalization, and Tableau dashboards to analyze financial filing trends and disclosure patterns |
+| [Diabetes Prediction Using Machine Learning and Explainable AI](https://github.com/anesh-t/Diabetes_Prediction_with_Feature_Selection_and_Explainable_AI) | A machine learning-based study that enhances diabetes prediction using feature selection techniques and explainable AI tools across diverse datasets |
 
 ---
 
