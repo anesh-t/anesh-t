@@ -37,6 +37,8 @@
 ### 📂 Projects You Can Explore:
 | Project | Summary |
 |--------|---------|
+| [FinSight-Executive-AI-Intelligent-Financial-Analysis-Agent](https://github.com/anesh-t/FinSight-Executive-AI-Intelligent-Financial-Analysis-Agent) | Created ExecuSight AI, a GPT-powered system combining structured financial databases and unstructured SEC filings via LangChain’s knowledge graph for holistic financial intelligence. |
+| [Applied Econometrics Project – IMF-Style Analysis (Stata)](https://github.com/anesh-t/applied-econometrics-imf-style-analysis) | Built IMF-style econometric models in Stata to analyze inequality, fiscal elasticity, and growth |
 | [Predicting Urban Mobility with Capital Bikeshare Data: A Supervised Learning Approach](https://github.com/anesh-t/Predicting-Urban-Mobility-with-Capital-Bikeshare-Data-A-Supervised-Learning-Approach) | Classification models using Python |
 | [Rollback Reimagined Revenue Forecasting and Pricing Optimization at Walmart](https://github.com/anesh-t/Rollback-Reimagined-Revenue-Forecasting-and-Pricing-Optimization-at-Walmart) | AI/ML insights using KNN & Regression modeling |
 | [Big Data Pipeline for U.S. Political Donation Insights Using Apache Spark](https://github.com/anesh-t/Big-Data-Pipeline-for-U.S.-Political-Donation-Insights-Using-Apache-Spark) | Apache Spark, Political campaign data analytics |
