@@ -17,7 +17,7 @@
 ---
 
 ### 🔗 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/anesh-t/) • [Resume](https://drive.google.com/file/d/1lLlDcYe2zZSMMhskdDvZGo7PKPaPQWLZ/view?usp=sharing) • [Portfolio Website](https://anesh-t.github.io/)
+[LinkedIn](https://www.linkedin.com/in/anesh-t/) • [Resume](https://drive.google.com/file/d/1_G_IgrHvoHmPd5hQE0TYSrU9Xn7GkE76/view?usp=sharing) • [Portfolio Website](https://anesh-t.github.io/)
 
 ---
 
