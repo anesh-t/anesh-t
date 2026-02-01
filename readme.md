@@ -10,7 +10,7 @@
 ### 🧠 About Me:
 - 🌟 Data-driven professional passionate about transforming raw data into actionable insights.
 - 📊 Currently working on projects in Machine Learning, Optimization, Investment Analysis & Portfolio Mgt, AI & Ml for Marketing Automation, and Data Warehousing.
-- 💼 Actively seeking **Summer 2025 internships** or **full-time roles** in Business Analytics, Data Analysis, or Financial Analytics.
+- 💼 Actively seeking **Summer 2026 internships** or **full-time roles** in Business Analytics, Data Analysis, or GEN AI Engineer.
 - ⚡ I’m constantly upgrading my skills in SQL, Python, R, ML modeling, and BI tools.
 
 ---
